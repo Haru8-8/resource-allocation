@@ -29,9 +29,12 @@
 
 ## デモ
 
+### アプリ画面
+![アプリ画面](docs/screenshots/app_screenshot.png)
+
 ### デモURL
 Streamlit Cloud でインタラクティブデモを公開しています。  
-→ **公開後にURLを記載予定**
+→ **https://resource-allocation-spvdtt9hsymedy5ryem9ry.streamlit.app/**
 
 ---
 
