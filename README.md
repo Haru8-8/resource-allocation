@@ -86,8 +86,8 @@ $$\max \sum_{i} v_i x_i \quad \text{s.t.} \quad \sum_{i} c_i x_i \leq B, \quad \
 
 ## 関連記事
 
-- （執筆予定）Pythonによる0/1ナップサック問題の貪欲法・DP実装と比較
-- （執筆予定）Pythonによる多次元ナップサック問題の貪欲法・MIP・SA実装と比較
+- [Pythonによる0/1ナップサック問題の貪欲法・DP実装と比較](https://qiita.com/Haru8-8/items/2fe899c5c9ad05576283)
+- [Pythonによる多次元ナップサック問題の貪欲法・MIP・SA実装と比較](https://qiita.com/Haru8-8/items/651ac1c2aa8e66ed9a11)
 
 ---
 
